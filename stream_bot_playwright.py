@@ -4,7 +4,7 @@ import random
 import time
 import os
 
-YOUTUBE_URL = "https://www.youtube.com/watch?v=gnKy3HDeTds"
+YOUTUBE_URL = "https://www.youtube.com/watch?v=hL9lY32CtPI"
 MAX_VIEWERS = 5
 WATCH_MIN_SECONDS = 60
 WATCH_MAX_SECONDS = 180
